@@ -1,0 +1,6 @@
+{
+  // デフォルトのフォーマッターをprettierに設定
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // フォーマットのonSaveを有効化
+  "editor.formatOnSave": true
+}
